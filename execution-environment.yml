@@ -7,12 +7,3 @@ build_arg_defaults:
 dependencies:
   galaxy: requirements.yml
   python: requirements.txt
-
-#additional_build_steps:
-#  prepend: |
-#    RUN pip3 install --upgrade pip setuptools
-#    RUN whoami
-#    RUN cat /etc/os-release
-#  append:
-#    - RUN echo This is a post-install command!
-#    - RUN ls -la /etc
