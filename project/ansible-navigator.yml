@@ -7,7 +7,7 @@ ansible-navigator:
   execution-environment:
     container-engine: podman
     enabled: true
-    image: localhost/pan-lab-ee-11:latest
+    image: ghcr.io/mysidlabs/panlab-ee-1:latest
     pull:
       policy: missing
   mode: stdout
