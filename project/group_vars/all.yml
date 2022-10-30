@@ -1,7 +1,7 @@
 provider:
-  username: 'ansible_automation'
+  username: 'siduser101'
   password: 'Ans1ble!'
-  ip_address: 10.0.0.102
+  ip_address: siduser101.pan.mysidlabs.com 
 
 username: 'ansible_automation'
 password: 'ansible'
